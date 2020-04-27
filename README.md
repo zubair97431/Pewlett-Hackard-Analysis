@@ -5,7 +5,7 @@
   
   As part of the reccomendation, it can be seen that there are more than enough number of retiring employees that are    available for the mentorship program so any new hires should not have trouble having access to a mentor. The company should allow many mentors to be available to the new hires. 
   
-## ERD od the database
+## ERD of the database
 ![EmployeeDB](EmployeeDB.png)
   
 
